@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "D:/Projects VsCode"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Moshify"
+  }
+}
